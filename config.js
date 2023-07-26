@@ -32,11 +32,11 @@ var config = {
     desc: {
         turn_on: "Let's go, Let's go",
         play: "Music",
-        bannar_coming: "Color",
+        bannar_coming: "上招牌",
         balloons_flying: "咦，好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        wish_message: "生日快乐！！！",
         story: "A MESSAGE FOR YOU",
     }
 };
