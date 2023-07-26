@@ -7,13 +7,13 @@ var config = {
         "30大叔哦",  // 同上...
         "啊，不对，是三十大寿",
         "祝愿你",
-        "第三个生日了哦",
-        "去年的生日",
-        "还记得在王婆串串吃的呢",
-        "今年要吃好的喽哦",
-        "要把我家可爱猪猪喂饱饱",
-        "然后抱走",
-        "YAMI~~",
+        "吃嘛嘛香",
+        "身体倍儿棒",
+        "年年有今日",
+        "岁岁有今朝",
+        "福如东海，寿比南山....",
+        "咳咳，不多说了",
+        "请自行DIY脑补...",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -25,15 +25,15 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        "亲爱的大祭司": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
+        turn_on: "Let's go, Let's go",
+        play: "Music",
+        bannar_coming: "Color",
+        balloons_flying: "咦，好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
